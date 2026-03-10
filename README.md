@@ -1,4 +1,4 @@
-  Simple Calculator
+Simple Calculator
 
 This project is a simple calculator program written in Python using Jupyter Notebook.
 
