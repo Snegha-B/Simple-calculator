@@ -1,14 +1,20 @@
-Simple Calculator
+# Python Simple Calculator
 
-This project is a simple calculator program written in Python using Jupyter Notebook.
+A beginner Python project developed using Jupyter Notebook that performs basic arithmetic operations.
 
-The calculator performs the following operations:
+## Features
+
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Modulo
+- Modulus
 
-The program takes two numbers as input from the user and performs the selected operation.
+## Tech Stack
 
-This project was created as a beginner Python practice project.
+- Python
+- Jupyter Notebook
+
+## Purpose
+
+This project was created as an early programming exercise to strengthen Python fundamentals and arithmetic logic.
