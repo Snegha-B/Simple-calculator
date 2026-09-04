@@ -16,7 +16,7 @@ print("5. Modulus")
 choice = input("Enter your choice: ")
 
 if choice == "1":
-    print("Result:", num1 + num2)
+    print(f"Result: {num1 + num2}")
 
 elif choice == "2":
     print("Result:", num1 - num2)
